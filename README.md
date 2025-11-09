@@ -27,6 +27,6 @@
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [LinkedIn](https://www.linkedin.com/in/itsnibin/)
 - [GitHub](https://github.com/NibinM)
 - [Portfolio](https://nibin-portfolio.netlify.app)
