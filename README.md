@@ -23,6 +23,7 @@
 ### 📚 Certifications
 - AWS Certified Cloud Practitioner  
 - Microsoft Certified: Azure Fundamentals
+- ServiceNow Certified System Administrator
 
 ---
 
