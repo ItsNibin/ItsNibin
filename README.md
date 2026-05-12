@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nibin M
 
 💼 **Project Engineer @ Wipro**  
-🔧 Full-Stack Developer | ServiceNow Specialist | Cloud Certified (AWS & Azure)  
+🔧 ServiceNow Developer | ServiceNow Specialist | Cloud Certified (AWS & Azure)  
 🚀 Passionate about building scalable web apps, automating workflows, and solving real-world problems.
 
 ---
@@ -23,7 +23,8 @@
 ### 📚 Certifications
 - AWS Certified Cloud Practitioner  
 - Microsoft Certified: Azure Fundamentals
-- ServiceNow Certified System Administrator
+- ServiceNow Certified System Administrator (CSA)
+- ServiceNow Certified Application Developer (CAD)
 
 ---
 
