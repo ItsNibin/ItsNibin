@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 Featured Projects
-- **MoneyManager App** – A Flutter-based mobile app for tracking expenses, budgeting, and financial analysis.  
+- **CSM Portal Enhancement** – Designed and built custom UI Builder components that streamlined agent workflows, reducing ticket resolution time by 20%. Integrated real-time notifications using JavaScript and Flow Designer.
 - **ServiceNow Workflow Automation** – Automated ITSM workflows to reduce resolution time and improve efficiency.  
 - **Angular/.NET Web App** – Full-stack application showcasing modular architecture and responsive UI.
 
